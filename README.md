@@ -129,7 +129,7 @@ Limitations
 - No metadata management (source attribution, timestamps) for returned chunks.
 - No automated tests or CI configured in this prototype.
 
-Suggested next steps
+Future Improvements
 
 - Add a lexical/semantic re-ranker (e.g., cross-encoder) to improve top-k ordering.
 - Use an on-disk or IVF+PQ FAISS index for larger datasets.
