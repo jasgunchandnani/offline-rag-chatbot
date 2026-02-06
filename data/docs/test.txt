@@ -1,0 +1,6 @@
+Retrieval Augmented Generation (RAG) combines information retrieval with language models.
+FAISS is a vector database used for similarity search.
+
+
+
+

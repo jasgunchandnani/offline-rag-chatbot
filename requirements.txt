@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+gpt4all
+PyPDF2
+streamlit
+numpy
+scikit-learn
